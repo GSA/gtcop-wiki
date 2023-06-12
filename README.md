@@ -1,6 +1,6 @@
-# The Geospatial Technology CoP (GtCOP) - Wiki
+# The Geospatial Technology CoP (GtCoP) - Wiki
 
-The **Geospatial Technology Community of Practice (GtCOP)** will facilitate spreading lessons learned in applying modern digital capabilities as well as spreading the courage to change in adopting modern technology management and procurement practices.
+The **Geospatial Technology Community of Practice (GtCoP)** will facilitate spreading lessons learned in applying modern digital capabilities as well as spreading the courage to change in adopting modern technology management and procurement practices.
 - Provide a space for informal information sharing, ideation, and brainstorming necessary to innovate geospatial technologies in government
 - Feedback mechanism for geospatial programs across the government to learn about stakeholder and user needs
 - Share best technical practices related to digital modernization that impact and benefit geospatial programs
@@ -8,7 +8,7 @@ The **Geospatial Technology Community of Practice (GtCOP)** will facilitate spre
 - Share the courage to change (related to IT modernization) across the geospatial programs in the government
 
 ## Join
-Receive updates and more information on joining the GtCOP by filling out this [interest form](https://touchpoints.app.cloud.gov/touchpoints/119b1515/submit).
+Receive updates and more information on joining the GtCoP by filling out this [interest form](https://touchpoints.app.cloud.gov/touchpoints/119b1515/submit).
 
 
 ## What We Do
