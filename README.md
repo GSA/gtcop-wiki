@@ -7,15 +7,20 @@ The **Geospatial Technology Community of Practice (GtCoP)** will facilitate spre
 - Connect IT professionals supporting geospatial programs: Improve coordination & collaboration relative to IT modernization 
 - Share the courage to change (related to IT modernization) across the geospatial programs in the government.
 
-## Upcomng Events
+## Upcoming Events [Link](https://github.com/GSA/gtcop-wiki/wiki/Events)
 
-[https://github.com/GSA/gtcop-wiki/wiki/Events](https://github.com/GSA/gtcop-wiki/wiki/Events)
 
 **Aug 2023: An introduction to the SpatioTemporal Asset Catalog (STAC) and how its used to explore NASA's Earth Observation Data**
 
-_Tuesday, August 22nd, 2023 12:00 PM – 1 PM ET_
+**_Tuesday, August 22nd, 2023 12:00 PM – 1 PM ET_**
 
-Video of Event: [link to follow after event]
+Join on your computer, mobile app or room device:
+[Google Meet Link](https://meet.google.com/hcn-jssu-bzp?authuser=0&hs=122)
+
+Or join by phone: ‪(US) +1 657-845-9666‬ PIN: ‪935 380 189‬#
+[Phone](https://tel.meet/hcn-jssu-bzp?pin=8891401669038)
+
+_Video of Event: [link to follow after event]_
 
 The **SpatioTemporal Asset Catalog (STAC)** specification provides a common language for earth observation (EO) data. STAC is used to power data discovery, visualization, train ML models, and perform Earth data science. By putting data into STAC, we can dynamically select parts of large catalogs of data, combine them together, and derive insights in multiple ways.
 
@@ -41,13 +46,8 @@ We hope more data providers across the federal government will adopt STAC so tha
 
 **Emma Paz** is an application developer at Development Seed. Passionate about geography, data, and code, she seeks to build valuable, map-centric tools that bring compelling data and visualizations to decision-makers. Emma loves challenges that include wrangling data together, leveraging databases for spatial analyses, simplifying workflows for researchers and technical users, and building interactive apps to engage the public. Emma has a B.S. in Biology from Kennesaw State University in Georgia. She started her geospatial career while obtaining her M.S. Environmental Science degree at the College of Charleston in South Carolina. Since then, she’s worked in private and public sector roles that have fueled her love of technology, leading her to exciting projects & responsibilities (like supporting Emergency Management operations for the City of Charleston during the Atlantic Hurricane Seasons) and enabling her to collaborate within. Across teams of people, she admires and continues to learn from.
 
-**Join!**
 
-Join on your computer, mobile app or room device:
-[Google Meet Link](https://meet.google.com/hcn-jssu-bzp?authuser=0&hs=122)
 
-Or join by phone: ‪(US) +1 657-845-9666‬ PIN: ‪935 380 189‬#
-[Phone](https://tel.meet/hcn-jssu-bzp?pin=8891401669038)
 
 ## Join
 Receive updates and more information on joining the GtCoP by filling out this [interest form](https://touchpoints.app.cloud.gov/touchpoints/119b1515/submit).
