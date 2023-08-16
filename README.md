@@ -7,6 +7,9 @@ The **Geospatial Technology Community of Practice (GtCoP)** will facilitate spre
 - Connect IT professionals supporting geospatial programs: Improve coordination & collaboration relative to IT modernization 
 - Share the courage to change (related to IT modernization) across the geospatial programs in the government.
 
+## Events
+
+
 ## Join
 Receive updates and more information on joining the GtCoP by filling out this [interest form](https://touchpoints.app.cloud.gov/touchpoints/119b1515/submit).
 
