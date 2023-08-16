@@ -9,7 +9,6 @@ The **Geospatial Technology Community of Practice (GtCoP)** will facilitate spre
 
 ## Upcoming Events [Link](https://github.com/GSA/gtcop-wiki/wiki/Events)
 
-
 **Aug 2023: An introduction to the SpatioTemporal Asset Catalog (STAC) and how its used to explore NASA's Earth Observation Data**
 
 **_Tuesday, August 22nd, 2023 12:00 PM – 1 PM ET_**
