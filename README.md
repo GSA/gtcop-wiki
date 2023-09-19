@@ -1,5 +1,5 @@
 # The Geospatial Technology CoP (GtCoP)
-[**Community Homepage**](https://github.com/GSA/gtcop-wiki/wiki)
+[**Link To - Community Homepage**](https://github.com/GSA/gtcop-wiki/wiki)
 
 The **Geospatial Technology Community of Practice (GtCoP)** will facilitate spreading lessons learned in applying modern digital capabilities as well as spreading the courage to change in adopting modern technology management and procurement practices.
 - Provide a space for informal information sharing, ideation, and brainstorming necessary to innovate geospatial technologies in government
